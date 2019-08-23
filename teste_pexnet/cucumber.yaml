@@ -1,2 +1,0 @@
-default:  -p cucumber​
-cucumber: features/specs/servicos/exemplo servicos.feature features/specs/fazer-login/fazer-login.feature​

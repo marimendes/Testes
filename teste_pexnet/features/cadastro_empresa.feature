@@ -7,7 +7,7 @@
 
     Contexto: Acessar a tela principal do sistema 
 
-      @cadastrar-dono
+      @cadastrar-empresa
       Cenário: Cadastrar a empresa
 
         Dado que eu abra a pagina inicial
